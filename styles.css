@@ -4,16 +4,17 @@ this is a single line and multi line comment. I wanted to say something specific
 
 body
 {
-background-color: powderblue;
+background-color: midnightblue;
 }
 h1
 {
-color: purple;
+color: mediumturquoise;
 font-family: courier;
 font-size: 100%;
 text-align: center;
 }
 p
 {
+color: steelblue;
 border: 1px solid powderblue;
 }
