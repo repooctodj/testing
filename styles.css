@@ -1,7 +1,10 @@
 /* 
 this is a single line and multi line comment. I wanted to say something specific earlier but i forgot what it was
  */
-
+#dot
+{
+font-size: 40px ;
+}
 body
 {
 background-color: midnightblue;

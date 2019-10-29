@@ -15,9 +15,9 @@ How to Be on the Moon game
 
 <p>
 based on the book by Viviane Schwarz.<br>
-How to be on the Moon<br>
+How to be on the Moon<br> <br>
 
-<a href="frontdoor.htm">
+<a id="dot" href="frontdoor.htm">
 Start the Game
 </a>
 
