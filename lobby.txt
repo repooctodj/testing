@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<!--
+I am trying to figure out how i want my game to go
+-->
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>
+Lobby
+</h1>
+
+<p>
+You are in Anna and Crocodiles Workshops Lobby. What do you want to do?
+
+<a href="workshop.htm">
+Go Back
+</a>
+
+<a href="workfloor.htm">
+Go Forward
+</a>
+
+<a href="toolshed.htm">
+Go Left
+</a>
+
+
+</p>
+
+</body>
+</html>
+
+
+

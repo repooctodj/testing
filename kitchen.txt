@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<!--
+I am trying to figure out how i want my game to go
+-->
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>
+Kitchen
+</h1>
+
+<p>
+You are in the kitchen of Anna's house. You see lots of yummy ingredents to make sandwiches with,your stomach rumbles. What do you want to do?
+
+<a href="backdoor.htm">
+Go Forward
+</a>
+
+<a href="livingroom.htm">
+Go Backwards
+</a>
+
+<!--I am going to try and add an input function here but dont know if i can link it later to collect sandwitch
+Make a sandwich and save it for later OR make a sandwitch and eat it now Or both-->
+
+
+</p>
+
+</body>
+</html>
+
+
+

@@ -1,17 +1,19 @@
-* {
-  margin:0px;
-  padding:0px;
-}
+/* 
+this is a single line and multi line comment. I wanted to say something specific earlier but i forgot what it was
+ */
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+body
+{
+background-color: powderblue;
 }
-
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+h1
+{
+color: purple;
+font-family: courier;
+font-size: 100%;
+text-align: center;
+}
+p
+{
+border: 1px solid powderblue;
 }
