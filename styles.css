@@ -1,23 +1,20 @@
 /* 
 this is a single line and multi line comment. I wanted to say something specific earlier but i forgot what it was
  */
-#dot
-{
-font-size: 40px ;
-}
 body
 {
-background-color: midnightblue;
+background-color: cornflowerblue;
 }
+
 h1
 {
 color: mediumturquoise;
 font-family: courier;
-font-size: 100%;
+font-size: 70px;
 text-align: center;
 }
+
 p
 {
-color: steelblue;
-border: 1px solid powderblue;
+color: darkviolet;
 }
