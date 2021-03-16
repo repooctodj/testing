@@ -31,17 +31,17 @@ body{
 }
 
 p{
-	font-size:18px;
+	font-size:20px;
 	text-align:center;
 }
 
 h1{
-	font-size:40px;
 	text-align:center;
 }
 
 h2{
 	color:#b3d7ff;
+	font-size:40px;
 }
 
 a:link{
@@ -105,7 +105,7 @@ div{
 }
 
 #hi{
-	background-color:/*#52667a*/#668099;
+	background-color:/*#52667a*/#465b6d;
 }
 
 #moon{
@@ -113,7 +113,7 @@ div{
 }
 
 #pigs{
-	background-color:#668099;
+	background-color:#465b6d;
 }
 
 #quotes{
@@ -121,5 +121,5 @@ div{
 }
 
 #monster{
-	background-color:#668099;
+	background-color:#465b6d;
 }
