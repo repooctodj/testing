@@ -1,22 +1,125 @@
-   body{
-padding:60px;
-background-color:#004080;
-color:#99ccff;
+/*
+these is notes:
+
+COLOR PICKER
+https://www.w3schools.com/colors/colors_picker.asp
+
+how to center an images
+https://www.w3schools.com/howto/howto_css_image_center.asp
+
+how to remove decorations from ul
+https://www.w3schools.com/html/html_lists_unordered.asp
+
+how to add a border to an image
+https://www.w3schools.com/howto/howto_css_border_image.asp
+
+link color order
+https://www.w3schools.com/html/html_links_colors.asp
+
+email as a link
+https://www.w3schools.com/html/html_links.asp
+
+email as a link with a subject
+https://css-tricks.com/snippets/html/mailto-links/
+*/   
+
+
+body{
+	padding:60px;
+	background-color:#304F7C;
+	color:#99ccff;
 }
 
-   p{
-font-size:18px;
+p{
+	font-size:18px;
+	text-align:center;
 }
 
-   h1{
-font-size:40px;
+h1{
+	font-size:40px;
+	text-align:center;
 }
 
-   a{
-color:#99ccff;
+h2{
+	color:#b3d7ff;
 }
 
-   li{
-padding:10px;
-font-size:30px;
+a:link{
+	color:/*#99ccff*/#009dda;
+}
+a:visited{
+	color:white;
+}
+a:hover{
+	color:purple;
+}
+a:active{
+	color:yellow;
+}
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	width:60px;
+	background-color:#f1f1f1;
+
+}
+
+li a{
+	display:block;
+	color: #000;
+	padding:8px 16px;
+	text-decoration:none;
+}
+
+li a:active{
+	background-color: #4CAF50;
+	color:white;
+}
+
+li a:hover:not(.active){
+	background-color: #555;
+	color:white;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+#bull{
+	border: 30px solid #29333d;
+}
+
+
+div{
+	padding:50px;
+}
+
+#hi{
+	background-color:/*#52667a*/#668099;
+}
+
+#moon{
+	background-color:#29333d;
+}
+
+#pigs{
+	background-color:#668099;
+}
+
+#quotes{
+	background-color:#29333d;
+}
+
+#monster{
+	background-color:#668099;
 }
