@@ -95,6 +95,11 @@ ul{
 	padding:0;
 }
 
+#secret{
+	text-decoration:none;
+	color:#99ccff;
+	
+}
 #bull{
 	border: 30px solid #29333d;
 }
@@ -105,12 +110,12 @@ div{
 }
 
 #hi{
-	background-color:/*#52667a*/#465b6d;
+	background-color:/*#52667a*/#29333d;
 }
 
-#moon{
+/*#moon{
 	background-color:#29333d;
-}
+}*/
 
 #pigs{
 	background-color:#465b6d;
@@ -122,4 +127,13 @@ div{
 
 #monster{
 	background-color:#465b6d;
+}
+
+#blk{
+	background-color:#29333d;
+	color:white;
+}
+#gry{
+	background-color:#465b6d;
+	
 }
