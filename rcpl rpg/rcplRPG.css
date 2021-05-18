@@ -1,0 +1,95 @@
+/*
+....................................
+These is notes:
+
+blockquotes:
+https://www.w3schools.com/TAGS/tag_blockquote.asp
+
+fonts:
+https://www.w3schools.com/cssref/css_websafe_fonts.asp#:~:text=Best%20Web%20Safe%20Fonts%20for%20HTML%20and%20CSS.,New%20%28monospace%29%2010%20Brush%20Script%20MT%20%28cursive%29%20
+
+how to center a table:
+https://www.w3schools.com/howto/howto_css_table_center.asp
+
+What font size is h1?
+https://www.google.com/search?q=what+font+size+are+h1&rlz=1C1GCEA_enUS807US807&oq=what+font+size+are+h1&aqs=chrome..69i57j0i22i30j0i390.4079j1j7&sourceid=chrome&ie=UTF-8
+....................................
+*/
+
+
+body{
+	padding:50px;
+	color: #24478f ;
+	background-color: #b3e0ff ;
+	font-size: 20px;
+	font-family:helvetica; 
+}
+
+a{
+	text-decoration:none;
+}
+
+h1{
+	text-align: right;
+}
+
+p{
+	text-align: center;
+	
+}
+
+#linktitle{
+	font-size: 36px;
+	/*color: #24478f ;*/
+}
+
+a{
+	color: #7094db;
+	font-size: 25px;
+}
+
+#midbut {
+	font-size:15px;
+}
+
+td{
+	text-align:center;
+	padding:10px;
+}
+
+table{
+	
+	margin-right: auto;
+}
+
+#tableRT{
+	margin-left:1000px;
+	background-color:blue;
+}
+
+#END{
+	font-size:90px;
+}
+
+#end{
+	text-align:left;
+	font-size:25px;"
+}
+
+#cat{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#cat th{
+	font-size:25px;
+}
+
+ul{
+	text-align:center;
+	list-style-type:none;
+}
+
+ul li{
+	padding:5px;
+}

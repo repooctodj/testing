@@ -1,0 +1,23 @@
+/*................................................
+these is notes:
+
+color picker
+https://www.w3schools.com/colors/colors_picker.asp
+................................................*/
+
+body{
+	padding:50px;
+	color:#00e600;
+	background-color:#004d00;
+	text-align: center;
+}
+
+table{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+img{
+	width:200px;
+	height:100px;
+}
