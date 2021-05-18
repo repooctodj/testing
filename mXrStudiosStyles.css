@@ -1,5 +1,10 @@
 /*
 these is notes:
+SECRET:
+- x in homepage goes to dev
+-NOT in dev goes to homepage
+-goals 1. learn unity goes to first strike and NOT goes to homepage
+
 
 COLOR PICKER
 https://www.w3schools.com/colors/colors_picker.asp
@@ -21,6 +26,23 @@ https://www.w3schools.com/html/html_links.asp
 
 email as a link with a subject
 https://css-tricks.com/snippets/html/mailto-links/
+
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	width:60px;
+	background-color:#f1f1f1;
+
+}
+
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+
+
 */   
 
 
@@ -44,6 +66,10 @@ h2{
 	font-size:40px;
 }
 
+ol{
+	font-size:30px;
+}
+
 a:link{
 	color:/*#99ccff*/#009dda;
 }
@@ -55,15 +81,6 @@ a:hover{
 }
 a:active{
 	color:yellow;
-}
-
-ul{
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	width:60px;
-	background-color:#f1f1f1;
-
 }
 
 li a{
@@ -87,12 +104,6 @@ img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-ul{
-	list-style-type: none;
-	margin:0;
-	padding:0;
 }
 
 #secret{
@@ -129,11 +140,18 @@ div{
 	background-color:#465b6d;
 }
 
+#boo {
+	background-color:#465b6d;
+}
+
 #blk{
 	background-color:#29333d;
-	color:white;
 }
 #gry{
 	background-color:#465b6d;
 	
+}
+
+#whiteText{
+	color: white;
 }
