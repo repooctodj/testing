@@ -5,6 +5,7 @@ these is notes:
 ........................
 */
 
-body {
+body {	background-color:darkgray;
+	color:black;
 	padding:50px;
 }

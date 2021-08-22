@@ -14,34 +14,42 @@ its dumb but it is(see jessicas infinity pi page)
 
 body{
 	padding: 40px;
+	background-color:darkblue;
+	color:white;
 }
 
 a:link {
 	text-decoration:none;
+	color:pink;
+	font-size:30px;
 }
 
 a:visited{
+	color:yellow;
 
 }
 
 a:hover{
+	color:orange;
 
 }
 
 a:active{
+	color:lightblue;
 
 }
 
 .grid-container {
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto;
-	background-color: #737373;
+	background-color: lightblue;
 	padding: 10px;
 }
 
 .grid-item{
-	background-color: #f2f2f2;
-	border: 1px solid #000000;
+	background-color: black;
+	color: white;
+	border: 1px solid white;
 	padding: 20px;
 	font-size: 15px;
 	text-align: center;

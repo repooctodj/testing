@@ -1,0 +1,8 @@
+pastIntro---pastStartsHere
+
+pastStartsHere---one
+
+one---oneLftEnd***oneRtEnd
+
+oneLftEnd---one
+oneRtEnd---one

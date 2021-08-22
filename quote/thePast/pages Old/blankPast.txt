@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+
+<head>
+	<title>The Past</title>
+	<link rel="stylesheet" href="../pastStyles.css">
+</head>
+
+<body>
+<table>
+
+<tr>
+<th></th><!--one-->
+<th></th><!--two-->
+<th></th><!--three-->
+</tr>
+
+<!--top-->
+<tr>
+<td></td>
+<td><img src="../pics/" alt=""></td>
+<td></td>
+</tr>
+
+<!--mid: top is left, mid is mid, bott is right-->
+<tr>
+<td><img src="../pics/" alt=""></td>
+<td><img src="../pics/" alt=""></td>
+<td><img src="../pics/" alt=""></td>
+</tr>
+
+
+<!--bott-->
+<tr>
+<td></td>
+<td><img src="../pics/" alt=""></td></td>
+<td></td>
+</tr>
+
+
+</table>
+
+
+</body>
+</html>
