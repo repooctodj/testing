@@ -14,7 +14,7 @@ its dumb but it is(see jessicas infinity pi page)
 
 body{
 	padding: 40px;
-	background-color:darkblue;
+	background-color:slategray;
 	color:white;
 }
 
@@ -43,7 +43,7 @@ a:active{
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto;
 	background-color: lightblue;
-	padding: 10px;
+	padding:;
 }
 
 .grid-item{

@@ -13,8 +13,10 @@ its dumb but it is(see jessicas infinity pi page)
 */
 
 body{
-	padding: 40px;
+	padding: 40px; color: lightblue; background-color: midnightblue;
 }
+
+p{ font-size:20px;}
 
 a:link {
 	text-decoration:none;
@@ -35,13 +37,13 @@ a:active{
 .grid-container {
 	display: grid;
 	grid-template-columns: auto auto auto auto auto auto;
-	background-color: #737373;
+	background-color: lightblue;
 	padding: 10px;
 }
 
 .grid-item{
-	background-color: #f2f2f2;
-	border: 1px solid #000000;
+	background-color: black;
+	border: 1px solid lightblue;
 	padding: 20px;
 	font-size: 15px;
 	text-align: center;
