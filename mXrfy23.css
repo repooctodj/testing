@@ -1,0 +1,60 @@
+/*
+............................................
+these is notes:
+
+css grid layout module instructions:
+https://www.w3schools.com/css/css_grid.asp
+
+!! links must be in this order to work:
+A:LINK---A:VISITED---A:HOVER---A:ACTIVE
+its dumb but it is(see jessicas infinity pi page)
+
+https://www.w3schools.com/html/html_id.asp
+
+!!!!! ~ https://htmlcolorcodes.com/ ~ !!!!!
+
+
+............................................
+*/
+
+body{
+	padding: 40px; color: #CCD1D1; background-color: #000000;
+}
+
+p{ font-size:20px;}
+#question {color: #212121 ;}
+
+a:link {color:#CCD1D1;
+	text-decoration:none;
+}
+
+a:visited{color:#212121;
+
+}
+
+a:hover{color:#FFFFFF;
+
+}
+
+a:active{
+
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: #212121;
+	padding: 10px;
+}
+
+.grid-item{
+	background-color: black;
+	border: 1px solid #616161;
+	padding: 20px;
+	font-size: 15px;
+	text-align: center;
+}
+   
+#def{
+	font-size: 20px;
+}
