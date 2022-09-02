@@ -1,0 +1,22 @@
+/* ..................................
+these is notes:
+
+line height
+https://www.computerhope.com/issues/ch001662.htm
+
+....................................... */
+
+body{
+	padding:250px;
+	color:#69611A;
+	background-color:#ECD512;
+}
+
+p{	font-size:20px;
+	word-spacing:5px;
+	line-height:1.5em;}
+
+a:link{	color:#A8980E;}
+a:visited{	color:#A8980E;}
+a:hover{	color:#F4DB03;}
+a:active{	color:#F4DB03;}
