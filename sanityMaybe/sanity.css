@@ -1,0 +1,27 @@
+/*
+these is notes:
+
+*/
+
+body{
+	padding: 40px; color: #CCD1D1; background-color: #000000;
+}
+
+p{ font-size:20px;}
+#question {color: #CCD1D1 ;}
+
+a:link {color:#CCD1D1;
+	text-decoration:none;
+}
+
+a:visited{color:#555151;
+
+}
+
+a:hover{color:#FFFFFF;
+
+}
+
+a:active{
+
+}
