@@ -28,7 +28,8 @@ a:hover{color:#FFFFFF;
 a:active{
 
 }
-img{	width: 1000px;
-    	hight: 1000px;
-    	padding: 5px;	
+img{	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	width: 80%;
 }
