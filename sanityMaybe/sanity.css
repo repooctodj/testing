@@ -13,7 +13,9 @@ body{
 	padding: 40px; color: #CCD1D1; background-color: #000000;
 }
 
-p{ font-size:20px;}
+p{ font-size:20px;
+   text-align: center;}
+
 #question {color: #CCD1D1 ;}
 
 a:link {color:#CCD1D1;
