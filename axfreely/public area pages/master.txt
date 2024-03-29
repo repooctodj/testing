@@ -15,5 +15,6 @@ should you access freely or naw?
 
 3.29.24
 keyOne *fictionstacksNE
-keyTWO *fictionstacksNE---hightablesittingsuggestion
-keyThree *cookingClassButter ---cookingClassTake (keyThree1-46)
+keyTWO *fictionstacksNE---hightablesittingsuggestion (keyThree)
+keyThree hightablesittingsuggestion---*cookingClassButter ---cookingClassTake (keyThree1-46)
+keyThree1-46 cookingClassTake (to pt 2)
