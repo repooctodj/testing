@@ -18,3 +18,5 @@ keyOne *fictionstacksNE
 keyTWO *fictionstacksNE---hightablesittingsuggestion (keyThree)
 keyThree hightablesittingsuggestion---*cookingClassButter ---cookingClassTake (keyThree1-46)
 keyThree1-46 cookingClassTake (to pt 2)
+
+before pt two you have 1q84 book, gold high table coin, and carolines library fob.
