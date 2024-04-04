@@ -1,0 +1,170 @@
+/*
+....................................
+These is notes:
+
+blockquotes:
+https://www.w3schools.com/TAGS/tag_blockquote.asp
+
+fonts:
+https://www.w3schools.com/cssref/css_websafe_fonts.asp#:~:text=Best%20Web%20Safe%20Fonts%20for%20HTML%20and%20CSS.,New%20%28monospace%29%2010%20Brush%20Script%20MT%20%28cursive%29%20
+
+how to center a table:
+https://www.w3schools.com/howto/howto_css_table_center.asp
+
+What font size is h1?
+https://www.google.com/search?q=what+font+size+are+h1&rlz=1C1GCEA_enUS807US807&oq=what+font+size+are+h1&aqs=chrome..69i57j0i22i30j0i390.4079j1j7&sourceid=chrome&ie=UTF-8
+
+background-color: #b3e0ff old body
+
+..............................these is thoughts............................
+made keys to make a key layer for each key you find pretty sure i wrote this down someplace but not sure where or what was accomplished....fixed key one so it does not repeat have not done key two aka key two puts you in key three but the pages are not updated...cant find whatever i had planned so planning something new. (pull this page out long)
+Lib                       desert                                                temple                                                   other                  
+collect keys              need bucket to enter                                  need coin for protection                                 need how to find gold book to make a pirate map
+coin                      inside can only get out with bucket full of water     need maurkami for white room                             to hid the treasure or naw?
+maurkami                  leave with shades so can see lib diff                 in white room gain the knowledge if you escape 
+bucket (at public art)    like viking zone of original
+how to find gold book
+
+
+
+
+should you access freely or naw?
+ jdc/ss/10.8.23
+
+
+3.29.24
+keyOne *fictionstacksNE
+keyTWO *fictionstacksNE---hightablesittingsuggestion (keyThree)
+keyThree hightablesittingsuggestion---*cookingClassButter ---cookingClassTake (keyThree1-46)
+keyThree1-46 cookingClassTake (to pt 2)
+
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+before pt two you have 1q84 book, gold high table coin, and (carolines) library fob.
+
+*book will help you...
+*fob will help you...
+*coin will help you beat something in the temple in pt3 (of3).
+
+!!!  Everything will help you in pt 3 get at least three more things from pt 2  !!!
+
+*bucket/and or sand will help you...
+*toy deer leg will help you...
+*cassette tape (oral history aka book on cassette tape?)
+*lady bug
+{*monstser fur/wisteria pettles/ little bit of sand, spiderweb ball will help you...}
+{or maybe this will just help you get thru level 2 and introduce you to using stuff}
+*monster fur
+*wisteria pettles
+*grass
+*sand
+*spiderweb
+*take out container/food
+*gate key/light bulb
+*cassette tape (oral history/book on cassete tape(usually language learning stuff...)
+*lady bug
+*bucket/and or sand
+*fresh produce (for grocery store tape?)
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+realizing just now that IDK where my other pages are...so technically I have no desert pages at all so I can tell a new story from scratch...
+
+NE: desert
+M: wild things
+C: tree stump (burnt)/spiderweb
+EO,WH,BA : trees, wisteria, forest and bugs (mary)
+BW: train water tower
+EW: oral history(grocery store)
+SH: deer
+SE: grass
+SA: garden (recording studio)
+LR: useless security (bad chinese food)???
+NM: cool half remembered lights (around front desk)/gate???
+
+lucy 13 locations???
+
+axfreely/public area pages/keyThree1-46/patioS.html will take you to part two...im seeing a pt two back in the library but make it weird/thru the back door with the fob into instead of viking...art weirdness 4.2.24
+
+
+
+.................................................*/
+
+
+body{
+	padding:50px;
+	color: #24478f ;
+	background-color: skyblue;
+	font-size: 20px;
+	font-family:helvetica; 
+}
+
+a{
+	text-decoration:none;
+}
+
+h1{
+	text-align: right;
+}
+
+p{
+	text-align: center;
+	
+}
+
+#linktitle{
+	font-size: 36px;
+	/*color: #24478f ;*/
+}
+
+a{
+	color: #7094db;
+	font-size: 25px;
+}
+
+#midbut {
+	font-size:15px;
+}
+
+td{
+	text-align:center;
+	padding:10px;
+}
+
+table{
+	
+	margin-right: auto;
+}
+
+#tableRT{
+	margin-left:1000px;
+	background-color:blue;
+}
+
+#END{
+	font-size:90px;
+}
+
+#end{
+	text-align:left;
+	font-size:25px;"
+}
+
+#cat{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#cat th{
+	font-size:25px;
+}
+
+ul{
+	text-align:center;
+	list-style-type:none;
+}
+
+ul li{
+	padding:5px;
+}
