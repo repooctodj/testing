@@ -104,9 +104,20 @@ body{
 	font-family:helvetica; 
 }
 
-a{
+a:link { color:#D5A913; 
 	text-decoration:none;
 }
+
+a:visited{
+
+}
+
+a:hover{
+
+}
+
+a:active{
+
 
 h1{
 	text-align: right;
@@ -172,3 +183,5 @@ ul{
 ul li{
 	padding:5px;
 }
+
+
